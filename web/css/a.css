@@ -1,0 +1,18 @@
+a.clasico:active,
+a.clasico:link,
+a.clasico:visited {
+    color: #0369cd;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.clasico:hover 	{
+    color: #3c94eb;
+    font-weight:bold;
+    text-decoration: underline;
+}
+
+/* para imagenes como links */
+a img {
+    border:0;
+}
